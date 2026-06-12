@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">afmobile</string>
+    <string-array name="categoria">
+        <item>Categoria...</item>
+        <item>Estudo</item>
+        <item>Lazer</item>
+        <item>Trabalho</item>
+        <item>Alimentacao</item>
+        <item>Turismo</item>
+    </string-array>
+</resources>
